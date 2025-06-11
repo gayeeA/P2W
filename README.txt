@@ -66,6 +66,7 @@ English → eng
 📬 Output
 A .docx file will be saved in the same folder as the original PDF, named like:
 
-Copy
-Edit
+bash
+```
 samplefile_output.docx
+```
